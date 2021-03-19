@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VirtMan\\": "src/VirtMan"
+            "VirtManStats\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VirtMan\\Tests\\": "tests/"
+            "VirtManStats\\Tests\\": "tests/"
         }
     },
     "extra": {
