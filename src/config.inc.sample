@@ -1,0 +1,10 @@
+<?php
+
+$config = [
+    "servers" => [
+        [ 
+            "name" => "libvirtServer",
+            "url" => "qemu+tls://libvirtServer/system"
+        ],
+    ]
+];
